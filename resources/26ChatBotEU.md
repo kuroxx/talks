@@ -2,7 +2,7 @@
 
 This is a talk I gave at the [The European Chatbot 2026](https://theeuropeanchatbot.com/product/building-real-time-ai-voice-agents/).
 
-![My talk]()
+![Talk](https://github.com/user-attachments/assets/1a39dd4d-c568-4db8-9a8a-fd3b4849ce41)
 
 Talk recording coming soon...
 
