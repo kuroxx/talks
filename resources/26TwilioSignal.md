@@ -2,7 +2,8 @@
 
 This is a talk I gave at the [Twilio SIGNAL SF](https://signal.twilio.com/2026/sessions).
 
-![My talk]()
+![My talk](https://github.com/user-attachments/assets/949df9f3-cd79-4b6a-b687-81c7f3878fb3)
+
 
 This talk was not recorded :(
 
